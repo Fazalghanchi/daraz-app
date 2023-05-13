@@ -1,0 +1,452 @@
+body{
+    background-color: lightgrey;
+}
+
+ul{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    height: 40px;
+    background-color: red;
+    font-size: 12px;
+}
+
+li{
+float: left;
+}
+
+a{
+    display: block;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.logo img{
+    display: inline-block;
+    width: 10%;
+    height: 10%;
+    margin-top: 1%;
+    margin-left: 8%;
+}
+
+.search{
+    margin-top: -50px;
+    margin-left: 270px;
+}
+
+.search input {
+    width: 70%;
+    height: 40px;
+}
+
+.Bottan{
+    margin-left: 1040px;
+    margin-top: -35px;
+  
+}
+
+.Bottan input {
+    width: 25%;
+    height: 30px;
+}
+
+.Dpic img {
+    width: 1330px;
+    height: 300px;
+    margin-top: 2%;
+}
+
+.ramdan{
+    margin-top: 0px;
+    margin-left: 120px;
+}
+
+.mart{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.mart table{
+    border-radius: 50px;
+    background-color:white ;
+}
+
+.mart a{
+    color: black;
+    font-size: large;
+}
+
+.men{
+    margin-left: 320px;
+    margin-top: -40px;
+}
+
+.men table{
+    border-radius: 50px;
+    background-color:white ;
+}
+
+.men a{
+    color: black;
+    font-size: large;
+}
+
+.woman{
+    margin-left: 580px;
+    margin-top: -40px;
+}
+
+.woman table{
+    border-radius: 50px;
+    background-color:white ;
+}
+
+.woman a{
+    color: black;
+    font-size: larger;
+}
+
+.decro{
+    margin-left: 840px;
+    margin-top: -40px;
+}
+
+.decro table{
+    border-radius: 50px;
+    background-color:white ;
+}
+
+.decro a{
+    color: black;
+    font-size: larger;
+}
+
+.beauty{
+    margin-left: 1100px;
+    margin-top: -40px;
+}
+
+.beauty table{
+    border-radius: 50px;
+    background-color:white ;
+}
+
+.beauty a{
+    color: black;
+    font-size: larger;
+}
+
+.fresh{
+    font-size: xx-large;
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+}
+
+.sale table{
+    margin-left: 60px;
+    background-color: white;
+
+}
+
+.gold{
+    margin-top: -300px;
+    margin-left: 60px;
+}
+
+.gold1{
+    margin-left: 70px;
+    margin-top: -10px;
+}
+
+.gold2{
+    margin-top: -10px;
+}
+
+.gold2 b{
+    font-size: large;
+    color: orangered;
+}
+
+.gold3{
+    margin-top: -30px;
+}
+
+.bed{
+    margin-top: -310px;
+    margin-left: 270px;
+}
+
+.bed1{
+    margin-left: 280px;
+    margin-top: -10px;
+}
+
+.bed2{
+    margin-top: -10px;
+}
+
+.bed2 b{
+    font-size: large;
+    color: orangered;
+}
+
+.bed3{
+    margin-top: -30px;
+}
+
+.pack{
+    margin-top: -310px;
+    margin-left: 480px;
+}
+
+.pack1{
+    margin-left: 480px;
+    margin-top: -10px;
+}
+
+.pack2{
+    margin-top: -10px;
+}
+
+.pack2 b{
+    font-size: large;
+    color: orangered;
+}
+
+.pack3{
+    margin-top: -30px;
+}
+
+.hanger{
+    margin-top: -310px;
+    margin-left: 690px;
+}
+
+.hanger1{
+    margin-left: 695px;
+    margin-top: -10px;
+}
+
+.hanger2{
+    margin-top: -10px;
+}
+
+.hanger2 b{
+    font-size: large;
+    color: orangered;
+}
+
+.hanger3{
+    margin-top: -30px;
+}
+
+.purse{
+    margin-top: -310px;
+    margin-left: 890px;
+}
+
+.purse1{
+    margin-left: 905px;
+    margin-top: -10px;
+}
+
+.purse2{
+    margin-top: -10px;
+}
+
+.purse2 b{
+    font-size: large;
+    color: orangered;
+}
+
+.purse3{
+    margin-top: -30px;
+}
+
+.shirt{
+    margin-top: -312px;
+    margin-left: 1098px;
+}
+
+.shirt1{
+    margin-left: 1105px;
+    margin-top: -10px;
+}
+
+.shirt2{
+    margin-top: -10px;
+}
+
+.shirt2 b{
+    font-size: large;
+    color: orangered;
+}
+
+.shirt3{
+    margin-top: -30px;
+}
+
+.darazmall{
+    font-size: xx-large;
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+}
+
+.mall table{
+    margin-left: 60px;
+    background-color: white;
+}
+
+.football img{
+    width: 15%;
+    height: 20%;
+}
+
+.football{
+    margin-left: 66px;
+    margin-top: -245px;
+}
+
+.football1 p{
+    margin-left: 90px;
+    margin-top: 8px;
+    font-size: larger;
+}
+
+.enterpriseT table{
+    margin-left: 270px;
+    margin-top: -245px;
+    background-color: white;
+}
+
+.enterprise img{
+    width: 15%;
+    height: 25%;
+}
+
+.enterprise{
+    margin-left: 300px;
+    margin-top: -245px;
+}
+
+.enterprise1 p{
+    margin-left: 295px;
+    margin-top: 8px;
+    font-size: larger;
+}
+
+.capT table{
+    margin-left: 480px;
+    margin-top: -215px;
+    background-color: white;
+}
+
+.cap img{
+    width: 180px;
+    height: 190px;
+}
+
+.cap{
+    margin-left: 490px;
+    margin-top: -245px;
+}
+
+.cap1 p{
+    margin-left: 495px;
+    margin-top: 8px;
+    font-size: larger;
+}
+
+.coverT table{
+    margin-left: 690px;
+    margin-top: -250px;
+    background-color: white;
+}
+
+.cover img{
+    width: 180px;
+    height: 190px;
+}
+
+.cover{
+    margin-left: 700px;
+    margin-top: -245px;
+}
+
+.cover1 p{
+    margin-left: 770px;
+    margin-top: 8px;
+    font-size: larger;
+}
+
+.sabziT table{
+    margin-left: 900px;
+    margin-top: -250px;
+    background-color: white;
+}
+
+.sabzi img{
+    width: 190px;
+    height: 200px;
+}
+
+.sabzi{
+    margin-left: 905px;
+    margin-top: -245px;
+}
+
+.sabzi1 p{
+    margin-left: 965px;
+    margin-top: -15px;
+    font-size: larger;
+}
+
+.caratT table{
+    margin-left: 1110px;
+    margin-top: -235px;
+    background-color: white;
+}
+
+.carat img{
+    width: 180px;
+    height: 200px;
+}
+
+.carat{
+    margin-left: 1120px;
+    margin-top: -245px;
+}
+
+.carat1 p{
+    margin-left: 1190px;
+    margin-top: 0px;
+    font-size: larger;
+}
+
+.just{
+    font-size: xx-large;
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+}
+
+.footer1{
+    margin-top: -550px;
+}
+
+.footer1 img{
+    width: 1350px;
+    height: 900px;
+
+}
+
+
+
+
+
+
